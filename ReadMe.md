@@ -1,13 +1,24 @@
 
-This repository combines all the repositories of the different services in one place.
-However if you want to check all the commit history go to the following repositories.
+# Mistral AI Hackathon Project
 
-1. Frontend
-https://github.com/alexprena/myQuizApp
+This repository combines all the repositories of the different services in one place for easy readability.
 
-2. Backend API
-https://github.com/bhrzali/mistralaibackend
+## 📚 Commit History
 
-3. MCP Server
-https://github.com/bhrzali/mistralai
+> **Note:** If you want to check the detailed commit history and development timeline, please visit the following individual repositories:
+
+### 🔗 Repository Links
+
+1. **Frontend** - React/TypeScript Quiz Application
+   - 🔗 [https://github.com/alexprena/myQuizApp](https://github.com/alexprena/myQuizApp)
+
+2. **Backend API** - FastAPI Service
+   - 🔗 [https://github.com/bhrzali/mistralaibackend](https://github.com/bhrzali/mistralaibackend)
+
+3. **MCP Server** - Model Context Protocol Server
+   - 🔗 [https://github.com/bhrzali/mistralai](https://github.com/bhrzali/mistralai)
+
+---
+
+*Each repository contains the complete development history, pull requests, and detailed commit messages for their respective services.*
 
