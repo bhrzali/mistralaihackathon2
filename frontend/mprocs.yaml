@@ -1,0 +1,6 @@
+procs:
+  back:
+    shell: "mise run sb"
+  front:
+    shell: "npm run dev"
+    cwd: "./front"

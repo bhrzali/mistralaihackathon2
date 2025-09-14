@@ -1,0 +1,109 @@
+{
+    "id": 1,
+    "title": "German Quiz - Das Perfekt (2025-09-13 14:22:54)",
+    "topic": "Das Perfekt",
+    "explanation": "Dieses Thema ist angemessen, da es sich um eine zentrale Zeitform in der deutschen Sprache handelt, die im Alltag sehr häufig verwendet wird, insbesondere in der gesprochenen Sprache. Die Fragen konzentrieren sich auf die korrekte Bildung und Anwendung des Perfekts mit den Hilfsverben 'haben' und 'sein' sowie die Bildung des Partizip II.",
+    "number_of_questions": 20,
+    "generated_at": "2025-09-13T16:13:25.851273Z",
+    "questions": [
+        {
+            "id": 1,
+            "question_number": 1,
+            "prompt": "Gestern ______ ich meine Hausaufgaben _______.",
+            "correct_answer": "B",
+            "explanation": "The verb \"machen\" (to do) takes an accusative object (\"meine Hausaufgaben\") and does not express movement or a change of state. Therefore, it forms the Perfekt with the auxiliary verb \"haben\". The past participle of \"machen\" is \"gemacht\".",
+            "translation": "Yesterday I did my homework.",
+            "ai_answer": "habe ... gemacht",
+            "ai_correction": "No correction needed",
+            "additional_examples": "Er hat einen Kuchen gebacken., Wir haben ein Buch gelesen., Sie hat ihren Freund besucht.",
+            "options": [
+                {
+                    "id": 1,
+                    "option_letter": "A",
+                    "option_text": "bin ... gemacht"
+                },
+                {
+                    "id": 2,
+                    "option_letter": "B",
+                    "option_text": "habe ... gemacht"
+                },
+                {
+                    "id": 3,
+                    "option_letter": "C",
+                    "option_text": "bin ... machen"
+                },
+                {
+                    "id": 4,
+                    "option_letter": "D",
+                    "option_text": "habe ... machen"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_number": 2,
+            "prompt": "Am Wochenende _______ meine Familie nach Berlin _______.",
+            "correct_answer": "A",
+            "explanation": "The verb \"fahren\" (to drive/travel) is a verb of movement that does not take an accusative object. Therefore, it forms the Perfekt with the auxiliary verb \"sein\". The past participle of \"fahren\" is \"gefahren\".",
+            "translation": "On the weekend my family traveled to Berlin.",
+            "ai_answer": "ist ... gefahren",
+            "ai_correction": "No correction needed",
+            "additional_examples": "Ich bin nach Hause gegangen., Sie sind ins Kino gegangen., Wir sind in den Park gelaufen.",
+            "options": [
+                {
+                    "id": 5,
+                    "option_letter": "A",
+                    "option_text": "ist ... gefahren"
+                },
+                {
+                    "id": 6,
+                    "option_letter": "B",
+                    "option_text": "hat ... gefahren"
+                },
+                {
+                    "id": 7,
+                    "option_letter": "C",
+                    "option_text": "ist ... fahren"
+                },
+                {
+                    "id": 8,
+                    "option_letter": "D",
+                    "option_text": "hat ... fahren"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_number": 3,
+            "prompt": "Wählen Sie den grammatisch korrekten Satz.",
+            "correct_answer": "C",
+            "explanation": "The verb \"treffen\" (to meet) takes an accusative object (\"seine Freunde\") and forms the Perfekt with \"haben\". \"Er hat\" is the correct conjugation. Options A, B, and D have incorrect auxiliary verbs or participle usage. \"Ich hat\" is wrong (should be \"ich habe\"). \"bleiben\" forms Perfekt with \"sein\", so \"Sie ist geblieben\" is correct, but \"nach Hause geblieben\" is clunky and less common than \"zu Hause geblieben\". \"kaufen\" takes \"haben\", so \"Wir haben das Auto gekauft\" would be correct.",
+            "translation": "Choose the grammatically correct sentence.",
+            "ai_answer": "Er hat seine Freunde getroffen.",
+            "ai_correction": "No correction needed",
+            "additional_examples": "Sie hat einen Film gesehen., Wir haben gut geschlafen., Er hat ein neues Handy gekauft.",
+            "options": [
+                {
+                    "id": 9,
+                    "option_letter": "A",
+                    "option_text": "Ich hat einen Kaffee getrunken."
+                },
+                {
+                    "id": 10,
+                    "option_letter": "B",
+                    "option_text": "Sie ist nach Hause geblieben."
+                },
+                {
+                    "id": 11,
+                    "option_letter": "C",
+                    "option_text": "Er hat seine Freunde getroffen."
+                },
+                {
+                    "id": 12,
+                    "option_letter": "D",
+                    "option_text": "Wir sind das Auto gekauft."
+                }
+            ]
+        }
+    ]
+}
